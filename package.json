@@ -31,7 +31,7 @@
     "@atomist/slack-messages": "^1.2.2",
     "@atomist/tree-path": "^1.0.3",
     "@google-cloud/storage": "^5.8.1",
-    "@kubernetes/client-node": "^0.13.2",
+    "@kubernetes/client-node": "^1.4.0",
     "@octokit/rest": "^18.3.5",
     "@types/app-root-path": "^1.2.4",
     "@types/cron": "^1.7.2",
